@@ -17,7 +17,7 @@ const config = {
     If you want to create new group, you must add this structure to adminTeamPage:
     <nameOfGroup>: [
         {
-            inGameName: "Astronavta",
+            inGameName: "Abel",
             rank: "Owner",
             skinUrlOrPathToFile: "",
             rankColor: ""
@@ -28,7 +28,7 @@ const config = {
 
     All skins for original players are generate automaticaly. If you want to add skins to warez players, yout must add url for skin to skinUrlOrPathToFile
         {
-            inGameName: "Astronavta",  <--- In-Game name
+            inGameName: "Abel",  <--- In-Game name
             rank: "Owner",  <-- rank
             skinUrlOrPathToFile: "",  <-- url or file path for skin image for warez players (if you have original minecraft leave it be empty)
             rankColor: "rgba(255, 3, 3, 1)"  <-- special rank color
@@ -46,90 +46,90 @@ const config = {
     adminTeamPage: {
         leaders: [
             {
-                inGameName: "Astronavta",
+                inGameName: "Abel",
                 rank: "Owner",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 3, 3, 1)"
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Owner",
-                skinUrlOrPathToFile: "",
-                rankColor: "rgba(255, 3, 3, 1)"
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Manager",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Moderator",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
             }
         ],
         developers: [
             {
-                inGameName: "Astronavta",
-                rank: "Developer",
+                inGameName: "_MoTTu | KGA_",
+                rank: "Team",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
-                inGameName: "Astronavta",
-                rank: "Developer",
+                inGameName: "! 𝗦ʜɪʙɪɴꜱᴏᴊᴜ",
+                rank: "Team",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
-                inGameName: "Astronavta",
-                rank: "Webmaster",
+                inGameName: "Karthik_The Genious",
+                rank: "Team",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
-                inGameName: "Astronavta",
-                rank: "Discord manager",
+                inGameName: "L Y K",
+                rank: "Team",
+                skinUrlOrPathToFile: "",
+                rankColor: ""
+            },
+            {
+                inGameName: "SonicWhisper",
+                rank: "Team",
+                skinUrlOrPathToFile: "",
+                rankColor: ""
+            },
+            {
+                inGameName: "Shot.XD",
+                rank: "Discord Developer",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             }
         ],
         helpers: [
             {
-                inGameName: "Astronavta",
-                rank: "Helper++",
+                inGameName: "4 0 4 !",
+                rank: "Developer",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
-                inGameName: "Astronavta",
-                rank: "Helper++",
+                inGameName: "appuqwe | Kga",
+                rank: "Developer",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
-                inGameName: "Astronavta",
-                rank: "Helper+",
+                inGameName: "BlackOp plays",
+                rank: "Developer",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
-                inGameName: "Astronavta",
-                rank: "Helper+",
+                inGameName: "KARNAN",
+                rank: "Developer",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
-                inGameName: "Astronavta",
-                rank: "Helper",
+                inGameName: "𝐌𝐍〢Nived",
+                rank: "Developer",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
-                inGameName: "Astronavta",
-                rank: "Helper",
+                inGameName: "tglkga",
+                rank: "Developer",
+                skinUrlOrPathToFile: "",
+                rankColor: ""
+            },
+            {
+                inGameName: "ɴɪꜱ 英俊的 I| ʟᴄ",
+                rank: "Developer",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             }
