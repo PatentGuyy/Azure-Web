@@ -56,37 +56,37 @@ const config = {
             {
                 inGameName: "_MoTTu | KGA_",
                 rank: "Team",
-                skinUrlOrPathToFile: "images/steve.png",
+                skinUrlOrPathToFile: "images/Steve.png",
                 rankColor: ""
             },
             {
                 inGameName: "! 𝗦ʜɪʙɪɴꜱᴏᴊᴜ",
                 rank: "Team",
-                skinUrlOrPathToFile: "images/steve.png",
+                skinUrlOrPathToFile: "images/Steve.png",
                 rankColor: ""
             },
             {
                 inGameName: "Karthik_The Genious",
                 rank: "Team",
-                skinUrlOrPathToFile: "images/steve.png",
+                skinUrlOrPathToFile: "images/Steve.png",
                 rankColor: ""
             },
             {
                 inGameName: "L Y K",
                 rank: "Team",
-                skinUrlOrPathToFile: "images/steve.png",
+                skinUrlOrPathToFile: "images/Steve.png",
                 rankColor: ""
             },
             {
                 inGameName: "SonicWhisper",
                 rank: "Team",
-                skinUrlOrPathToFile: "images/steve.png",
+                skinUrlOrPathToFile: "images/Steve.png",
                 rankColor: ""
             },
             {
                 inGameName: "Shot.XD",
                 rank: "Discord Developer",
-                skinUrlOrPathToFile: "images/steve.png",
+                skinUrlOrPathToFile: "images/Steve.png",
                 rankColor: ""
             }
         ],
@@ -94,19 +94,19 @@ const config = {
             {
                 inGameName: "4 0 4 !",
                 rank: "Developer",
-                skinUrlOrPathToFile: "images/steve.png",
+                skinUrlOrPathToFile: "images/Steve.png",
                 rankColor: ""
             },
             {
                 inGameName: "appuqwe | Kga",
                 rank: "Developer",
-                skinUrlOrPathToFile: "images/steve.png",
+                skinUrlOrPathToFile: "images/Steve.png",
                 rankColor: ""
             },
             {
                 inGameName: "BlackOp plays",
                 rank: "Developer",
-                skinUrlOrPathToFile: "images/steve.png",
+                skinUrlOrPathToFile: "images/Steve.png",
                 rankColor: ""
             },
             {
