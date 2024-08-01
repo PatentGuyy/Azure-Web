@@ -52,7 +52,7 @@ const config = {
                 rankColor: "rgba(255, 3, 3, 1)"
             }
         ],
-        team_maranakinar: [
+        team Maranakinar: [
             {
                 inGameName: "_MoTTu | KGA_",
                 rank: "Team",
