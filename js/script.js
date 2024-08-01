@@ -56,37 +56,37 @@ const config = {
             {
                 inGameName: "_MoTTu | KGA_",
                 rank: "Team",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/steve.png",
                 rankColor: ""
             },
             {
                 inGameName: "! 𝗦ʜɪʙɪɴꜱᴏᴊᴜ",
                 rank: "Team",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/steve.png",
                 rankColor: ""
             },
             {
                 inGameName: "Karthik_The Genious",
                 rank: "Team",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/steve.png",
                 rankColor: ""
             },
             {
                 inGameName: "L Y K",
                 rank: "Team",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/steve.png",
                 rankColor: ""
             },
             {
                 inGameName: "SonicWhisper",
                 rank: "Team",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/steve.png",
                 rankColor: ""
             },
             {
                 inGameName: "Shot.XD",
                 rank: "Discord Developer",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/steve.png",
                 rankColor: ""
             }
         ],
@@ -94,19 +94,19 @@ const config = {
             {
                 inGameName: "4 0 4 !",
                 rank: "Developer",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/steve.png",
                 rankColor: ""
             },
             {
                 inGameName: "appuqwe | Kga",
                 rank: "Developer",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/steve.png",
                 rankColor: ""
             },
             {
                 inGameName: "BlackOp plays",
                 rank: "Developer",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/steve.png",
                 rankColor: ""
             },
             {
@@ -118,19 +118,19 @@ const config = {
             {
                 inGameName: "𝐌𝐍〢Nived",
                 rank: "Developer",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/Nived.png",
                 rankColor: ""
             },
             {
                 inGameName: "tglkga",
                 rank: "Developer",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/Steve.png",
                 rankColor: ""
             },
             {
                 inGameName: "ɴɪꜱ 英俊的 I| ʟᴄ",
                 rank: "Developer",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/Steve.png",
                 rankColor: ""
             }
         ],
@@ -138,36 +138,12 @@ const config = {
             {
                 inGameName: "☈unez",
                 rank: "Admin",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/Steve.png",
                 rankColor: ""
             },
             {
                 inGameName: "Dubba",
                 rank: "Moderator",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Builder+",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Builder+",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Builder",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Builder",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             }
