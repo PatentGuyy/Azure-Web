@@ -44,7 +44,7 @@ const config = {
         builders: "rgba(247, 2, 176, 0.5)",
     },
     adminTeamPage: {
-        leaders: [
+        leader: [
             {
                 inGameName: "Abel",
                 rank: "Owner",
@@ -52,7 +52,7 @@ const config = {
                 rankColor: "rgba(255, 3, 3, 1)"
             }
         ],
-        developers: [
+        team_maranakinar: [
             {
                 inGameName: "_MoTTu | KGA_",
                 rank: "Team",
@@ -90,7 +90,7 @@ const config = {
                 rankColor: ""
             }
         ],
-        helpers: [
+        developers: [
             {
                 inGameName: "4 0 4 !",
                 rank: "Developer",
