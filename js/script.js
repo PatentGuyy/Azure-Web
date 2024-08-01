@@ -118,7 +118,7 @@ const config = {
             {
                 inGameName: "𝐌𝐍〢Nived",
                 rank: "Developer",
-                skinUrlOrPathToFile: "images/patentguy.png",
+                skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
@@ -134,7 +134,7 @@ const config = {
                 rankColor: ""
             }
         ],
-        builders: [
+        extras: [
             {
                 inGameName: "☈unez",
                 rank: "Admin",
@@ -181,7 +181,7 @@ const config = {
     Emails are sent via https://formsubmit.co/
     */
     contactPage: {
-        email: "astronavta@example.com"
+        email: "nived3272@gmail.com"
     }
 }
 
