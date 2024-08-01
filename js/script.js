@@ -118,7 +118,7 @@ const config = {
             {
                 inGameName: "𝐌𝐍〢Nived",
                 rank: "Developer",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/patentguy.png",
                 rankColor: ""
             },
             {
@@ -136,14 +136,14 @@ const config = {
         ],
         builders: [
             {
-                inGameName: "Astronavta",
-                rank: "Builder++",
+                inGameName: "☈unez",
+                rank: "Admin",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
-                inGameName: "Astronavta",
-                rank: "Builder++",
+                inGameName: "Dubba",
+                rank: "Moderator",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
